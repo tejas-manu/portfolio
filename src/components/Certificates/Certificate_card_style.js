@@ -1,6 +1,10 @@
 import React from 'react'
 import styled from 'styled-components'
 
+export const Anchor = styled.a`
+  text-decoration: none;
+`
+
 export const Document = styled.img`
     display: none;
     height: 70px;

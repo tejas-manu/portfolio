@@ -109,8 +109,12 @@ export const Bio = {
       date: "Sept 2022 - July 2023",
       desc: "Performed various Devops tasks. Deployed application on multiple Cloud platforms and wrote scripts to implement CICD. Led multiple teams in an internal project which involved deploying application on AWS and GCP. Was responsible as L2 for few products in the same project.",
       resp:[
-        "Role 1",
-        "Role 2",
+        "Pioneered the development of robust Continuous Integration/Continuous Deployment (CI/CD) pipelines, optimizing software development processes for efficiency and speed.",
+        "Orchestrated the deployment of applications on diverse cloud platforms such as Google Cloud Platform (GCP) or Amazon Web Services (AWS), ensuring accessibility for end-users.",
+        "Utilized Infrastructure as Code principles to automate the provisioning and management of infrastructure components.",
+        "Undertook responsibility for the ongoing maintenance and monitoring of deployed applications, ensuring their stability, performance, and responsiveness.",
+        "Worked collaboratively with cross-functional teams, integrating DevOps practices into the software development lifecycle.",
+        "Proactively identified opportunities for optimization, contributing to enhanced system performance, resource utilization, and overall operational efficiency.",
       ],
       skills: [
         "Devops",
@@ -133,8 +137,10 @@ export const Bio = {
       date: "May 2022 - Sept 2022",
       desc: "Performed various Devops tasks. Deployed application on multiple Cloud platforms and wrote scripts to implement CICD. Created an MLOps project which included deploying machine learning model and automating the learning and deployment of the same",
       resp:[
-        "Role 1",
-        "Role 2",
+        "Implemented efficient workflows to automate code integration, testing, and deployment, contributing to a seamless and agile development lifecycle.",
+        "Developed and maintained specialized pipelines to facilitate the seamless training and testing of Machine Learning (ML) models.",
+        "Utilized Infrastructure as Code principles to automate the provisioning and management of infrastructure components.",
+        "Contributed to the proactive identification and resolution of issues, enhancing overall system reliability and performance.",
       ],
       skills: [
         "Devops",
@@ -157,8 +163,9 @@ export const Bio = {
       date: "March 2022 - June 2022",
       desc: "Executed diverse testing procedures to assess application performance and pinpoint defects. Contributed to quality assurance by meticulously validating application functionality. Implemented test automation using a variety of testing tools to streamline processes and bolster overall testing effectiveness",
       resp:[
-        "Role 1",
-        "Role 2",
+        "Executed diverse testing methodologies on developing applications to ensure their reliability and functionality.",
+        "Contributed to the creation and execution of automated test scripts to enhance the overall testing framework.",
+        "Continuously improved test automation processes, incorporating best practices and innovative approaches to enhance overall testing effectiveness.",
       ],
       skills: [
         "Python",
@@ -235,7 +242,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This certificate provides vivid understanding of core AWS services, key AWS security concepts, strategies for migrating from on-premises to AWS, and basics of building serverless applications with AWS. ",
-      doc: "",
+      doc: "https://drive.google.com/file/d/1uyIr1aSemRziFiibNqIiagu5yzw3bCvf/view?usp=sharing",
     },
     {
       id: 1,
@@ -246,7 +253,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This certificates provides knowledge onn basic commands used in Github. How Git and Github is used in organizations for version control.",
-      doc: "",
+      doc: "https://drive.google.com/file/d/1-LWlkESIth_zPK8tnrj-n3DMvkSCb2ul/view?usp=sharing",
     },
     {
       id: 2,
@@ -257,7 +264,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This certification provides fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.",
-      doc: "",
+      doc: "https://drive.google.com/file/d/1BL24fPlcpogquxg5qGcqnfBwCTot9trs/view?usp=sharing",
     },
     {
       id: 3,
@@ -268,7 +275,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This certificate provides core skills in Python such as critical data structures, programming fundamentals and experience with core libraries for data science. They can apply this knowledge to work with data and develop applications for data science.",
-      doc: "",
+      doc: "https://drive.google.com/file/d/1oagS1aALn9n9xP7bBrLnuqTMCntdrBeU/view?usp=sharing",
     },
     {
       id: 4,
@@ -279,7 +286,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This is a capstone project that provides knowledge on Data handling techniques using python and it's related libraries.",
-      doc: "",
+      doc: "https://drive.google.com/file/d/14K2YzdxFivbuJXo4jwK7BY7GhxvB7hNB/view?usp=sharing",
     },
     {
       id: 5,
@@ -290,7 +297,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This course introduces a beginner in DevOps to basic fundamentals of Ansible with easy-to-do hands-on exercises that you can practice right in the browser. The course introduces basic use cases of Ansible, followed by an introduction to Ansible Inventory, Playbooks, Modules, Variables, Conditionals, Loops, Handlers, Collections, Templates, and Roles.",
-      doc: "",
+      doc: "https://drive.google.com/file/d/1OKJaOcX7wcwsFLWtkNJFB2VMDA6RbOF4/view?usp=sharing",
     },
     {
       id: 6,
@@ -301,7 +308,7 @@ export const Bio = {
       date: "",
       exp: "",
       desc: "This course we will be focusing on advanced concepts in Ansible and some real life use cases. The course introduces advanced topics such as roles, jinja2 templating, lookups, error handling, vault etc.  The course also discusses strategies, filters and plugins and how to develop custom ones.",
-      doc: "",
+      doc: "https://drive.google.com/file/d/1gtqC58kUsafHyGuaCb7mZR3pezT9s8a-/view?usp=sharing",
     },
   ];
   

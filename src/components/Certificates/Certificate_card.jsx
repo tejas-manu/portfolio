@@ -1,4 +1,4 @@
-import {Card, Top, Image, Body, Name, Degree, Date, Grade, Description, Span, Expiry} from "./Certificate_card_style"
+import {Card, Top, Image, Body, Name, Degree, Date, Grade, Description, Span, Expiry, Anchor} from "./Certificate_card_style"
 import React from 'react'
 
 
@@ -8,7 +8,9 @@ const CertificateCard = ({ certificate }) => {
             <Top>
                 <Image src={certificate.img} />
                 <Body>
-                    <Name>{certificate.name}</Name>
+                    <Anchor href={certificate.doc} target="new">
+                       <Name>{certificate.name}</Name>
+                    </Anchor>
                     <Degree>{certificate.organization}</Degree>
                     <Degree>{certificate.platform}</Degree>
                     {/* <Date>{certificate.date}</Date>
